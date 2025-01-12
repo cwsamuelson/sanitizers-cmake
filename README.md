@@ -71,3 +71,5 @@ You found a bug? Please fill out an [issue](https://github.com/arsenm/sanitizers
 
 * [Matt Arsenault](https://github.com/arsenm)
 * [Alexander Haase](https://github.com/alehaa)
+* [Chris Samuelson](https://github.com/cwsamuelson)
+
